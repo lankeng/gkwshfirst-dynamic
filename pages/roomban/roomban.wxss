@@ -1,0 +1,80 @@
+.roomban {
+  width: 100%;
+  padding-top: 100rpx;
+}
+
+.clearfix:before, .clearfix:after {
+  content: "";
+  display: table;
+}
+
+.clearfix:after {
+  clear: both;
+}
+
+.clearfix {
+  zoom: 1;
+}
+
+.roomban-logo {
+  width: 200rpx;
+  height: 200rpx;
+  margin: auto;
+}
+
+.roomban-content {
+  width: 100%;
+  padding-top: 100rpx;
+}
+
+.roomcon-item {
+  width: 70%;
+  margin: auto;
+  margin-top: 18rpx;
+}
+
+.conitem-title {
+  width: 36%;
+  float: left;
+  color: #535353;
+  text-align: right;
+}
+
+.conitem-ans {
+  width: 58%;
+  float: right;
+  padding-left: 30rpx;
+  padding-bottom: 8rpx;
+}
+
+.conitem-ansa {
+  width: 58%;
+  float: right;
+  border-bottom: 2rpx solid #666;
+  padding-left: 30rpx;
+  padding-bottom: 8rpx;
+}
+
+.conitem-place {
+  font-size: 30rpx;
+}
+
+.borrowban-btn {
+  width: 90%;
+  margin: auto;
+}
+
+.borbtn-self {
+  width: 100%;
+  border-radius: 10rpx;
+  background-color: #ea986c;
+  border: 2rpx solid b #666;
+  box-shadow: 3rpx 6rpx 20rpx #666;
+  margin-top: 150rpx;
+  color: #fff;
+}
+
+.alrelogin{
+  background-color: #EB1313;
+  color: #ffffff;
+}

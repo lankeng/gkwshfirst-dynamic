@@ -1,0 +1,71 @@
+.slide-image {
+  width: 100%;
+  height: 100%;
+}
+
+.index-swiper {
+  height: 400rpx;
+}
+
+.index-tab {
+  width: 100%;
+}
+
+.intab-row {
+  width: 90%;
+  margin: auto;
+}
+
+.rowcon-img {
+  width: 120rpx;
+  height: 114rpx;
+  margin: auto;
+}
+
+.rowcon-imga {
+  width: 115rpx;
+  height: 115rpx;
+  margin: auto;
+}
+
+.rowcon-imgb {
+  width: 95rpx;
+  height: 95rpx;
+  margin: auto;
+  position: relative;
+  top: 15rpx;
+}
+
+.rowcon-imgc {
+  width: 93rpx;
+  height: 93rpx;
+  margin: auto;
+}
+
+.rowcon-imgd {
+  width: 110rpx;
+  height: 110rpx;
+  margin: auto;
+  position: relative;
+  top: 15rpx;
+}
+
+.rowcon-text {
+  font-size: 30rpx;
+  width: 100%;
+  height: 35rpx;
+  line-height: 35rpx;
+}
+
+.tabrow-con {
+  width: 33.3%;
+  text-align: center;
+  float: left;
+  height: 165rpx;
+  margin-top: 30rpx;
+}
+
+.tabrow-top {
+  width: 100%;
+  height: 130rpx;
+}

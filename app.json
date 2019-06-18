@@ -1,0 +1,65 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/schedule/schedule",
+    "pages/my/my",
+    "pages/property/property",
+    "pages/prodetail/prodetail",
+    "pages/proapply/proapply",
+    "pages/test/test",
+    "pages/itservice/itservice",
+    "pages/itsapply/itsapply",
+    "pages/itdetail/itdetail",
+    "pages/grade/grade",
+    "pages/emptyroom/emptyroom",
+    "pages/findbook/findbook",
+    "pages/showbook/showbook",
+    "pages/bookdetail/bookdetail",
+    "pages/courier/courier",
+    "pages/lists/lists",
+    "pages/details/details",
+    "pages/company/company",
+    "pages/elewater/elewater",
+    "pages/payrecord/payrecord",
+    "pages/loginban/loginban",
+    "pages/comments/comments",
+    "pages/borrowban/borrowban",
+    "pages/borrowinfo/borrowinfo",
+    "pages/classdetail/classdetail",
+    "pages/roomban/roomban",
+    "pages/watercheck/watercheck"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#EA986C",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "white"
+  },
+  "tabBar": {
+    "color": "#808080",
+    "selectedColor": "#EA986C",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "selectedIconPath": "image/indexy.png",
+        "iconPath": "image/index.png",
+        "pagePath": "pages/index/index",
+        "text": "首页"
+      },
+      {
+        "selectedIconPath": "image/emptyromy.png",
+        "iconPath": "image/emptyrom.png",
+        "pagePath": "pages/emptyroom/emptyroom",
+        "text": "空教室"
+      },
+      {
+        "selectedIconPath": "image/myy.png",
+        "iconPath": "image/my.png",
+        "pagePath": "pages/my/my",
+        "text": "我的"
+      }
+    ]
+  },
+  "sitemapLocation": "sitemap.json"
+}
